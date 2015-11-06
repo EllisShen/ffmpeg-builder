@@ -21,3 +21,17 @@ Specify build location by passing it to centOS.sh::
 After rebuilt, compiled excutable binaries are available at::
 
     $ ~/bin
+
+
+Build for OSX
+==================
+
+OSX ffmpeg build process is referenced from: http://ffmpegmac.net/HowTo/ 
+
+Specify build location by passing it to osx.sh::
+
+    $ sh osx.sh
+
+After rebuilt, compiled excutable binaries are available at::
+
+    $ /Volume/Ramdisk/sw/bin
